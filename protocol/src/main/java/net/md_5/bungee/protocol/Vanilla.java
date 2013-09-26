@@ -31,7 +31,7 @@ public class Vanilla implements Protocol
 {
 
     public static final byte PROTOCOL_VERSION = 70;
-    public static final String GAME_VERSION = "ALL THE VERSIONS";
+    public static final String GAME_VERSION = "ALL THE VERSION";
     @Getter
     private static final Vanilla instance = new Vanilla();
     /*========================================================================*/
